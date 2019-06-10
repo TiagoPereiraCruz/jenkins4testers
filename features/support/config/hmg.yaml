@@ -1,0 +1,14 @@
+---
+url: 'http://hmg.nflix.com'
+database:
+  host: '10.20.30.5'
+  dbname: 'nflix'
+  user: 'postgres'
+  password: 'qaninja-hmg'
+users:
+  cat_manager:
+    email: 'pepper.pots@stark.com'
+    pass: 'pwd456'
+  admin:
+    email: 'admin@nflix.com'
+    pass: 'admin123'
