@@ -8,7 +8,7 @@ database:
 users:
   cat_manager:
     email: 'tony@stark.com'
-    pass: 'pwd456'
+    pass: 'pwd123'
   admin:
     email: 'admin@nflix.com'
     pass: 'admin123'
